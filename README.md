@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Rerouted</h1>
+<h1 align="center" id="title">Shelly</h1>
 
 <p id="description">Velocity plugin to run shell commands from in game.</p>
 

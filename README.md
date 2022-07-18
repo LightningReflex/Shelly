@@ -5,7 +5,7 @@
 <p align="center"><img src="https://img.shields.io/discord/992429435687018588?label=Discord" alt="shields"> <img src="https://img.shields.io/github/license/LightningReflex/Rerouted" alt="shields"></p>
 <p>&nbsp;</p>
 
-<h2>✩ Features</h2>
+<h2>⭐ Features</h2>
 
 Here are some of the features:
 

@@ -7,7 +7,7 @@
 
 <h2>✈ Features</h2>
 
-Here're some of the features:
+Here are some of the features:
 
 * /shelly or /bash or /shell or /sh
 * (only works on Linux atm)

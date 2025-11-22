@@ -2,6 +2,8 @@
 
 <p id="description">Velocity plugin to run shell commands from in game.</p>
 
+Paper version: [LightningReflex/ShellyPaper](https://github.com/LightningReflex/ShellyPaper)
+
 <p align="center"><img src="https://img.shields.io/discord/992429435687018588?label=Discord" alt="shields"> <img src="https://img.shields.io/github/license/LightningReflex/Rerouted" alt="shields"></p>
 <p>&nbsp;</p>
 
